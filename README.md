@@ -31,7 +31,7 @@ _Determinar experimentalmente las características de señales senoidales._
 
 ![image](https://user-images.githubusercontent.com/84418933/133172524-204f8b77-fa46-432e-adee-c78e2077a59f.png)
 
-![image](https://user-images.githubusercontent.com/84418933/133172655-e6c1a656-7077-4463-bfa9-a7f2ab17f10f.png)
+![image](https://user-images.githubusercontent.com/84418933/133172799-05f06abf-b6a9-4c4d-aa3d-c0fa12bbaff8.png)
 
 **8.5.2 Transforme a su forma rectangular:**
 
