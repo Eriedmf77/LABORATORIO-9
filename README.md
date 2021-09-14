@@ -182,6 +182,17 @@ _FORMA POLAR_
 ![image](https://user-images.githubusercontent.com/85259801/133312912-5fa56c78-2a03-4f09-ac92-8d0194e88da9.png)
 
 
+## Tercer ejercicio
+
+_FORMA RECTANGULAR_
+
+![image](https://user-images.githubusercontent.com/85259801/133313314-ef8c56d6-412c-4901-b819-31c062ad071b.png)
+
+_FORMA POLAR_
+
+![image](https://user-images.githubusercontent.com/85259801/133313337-b58970bd-d083-4c96-810e-231bc41271df.png)
+
+
 ## 5. VIDEO
 
 https://youtu.be/0l4b7-l2kKY
