@@ -62,7 +62,43 @@ tanto magnitud como ángulo._
 
 ![image](https://user-images.githubusercontent.com/84418933/133305072-6c46ac5c-6399-47c6-be6a-b8f6411d8524.png)
 
-![image](https://user-images.githubusercontent.com/84418933/133305094-453cc3c7-7813-4087-b309-abfe1e5d3490.png)
+![image](https://user-images.githubusercontent.com/85728185/133309265-cb0d7f77-0328-448d-b7b8-43a59ac7ea56.png)
+
+_Transformamos la coordenada polar a rectangular _
+
+![image](https://user-images.githubusercontent.com/85728185/133309325-85a57142-3257-40e5-9185-2a9f7723d51d.png)
+
+_Reemplazamos_
+
+![image](https://user-images.githubusercontent.com/85728185/133309406-857f12b2-654c-455b-b5aa-827fd836ae5d.png)
+
+_Racionalizamos la división para eliminar terminos semejantes con su conjugada en este caso es -2j_
+
+![image](https://user-images.githubusercontent.com/85728185/133309477-a0da4f4c-3d99-4561-95e6-16d7d9cbbb7c.png)
+
+_Multiplicando nos queda_
+
+![image](https://user-images.githubusercontent.com/85728185/133309527-e195168f-bfb6-4306-94da-155c799b7c10.png)
+
+_Operamos la división nos queda_
+
+![image](https://user-images.githubusercontent.com/85728185/133309569-2f00048a-e312-42dc-bba4-41c96357dc4b.png)
+
+_Realizamos la multiplicación de:_
+
+![image](https://user-images.githubusercontent.com/85728185/133309641-62430118-21e1-4b66-9d87-2f1051711278.png)
+
+_Luego de ejecutar la multiplicación ordenamos las coordenadas y nos queda_
+
+![image](https://user-images.githubusercontent.com/85728185/133309682-2047b783-2091-4fdb-bc55-e39d67df7041.png)
+
+_Realizamos la resta_
+
+![image](https://user-images.githubusercontent.com/85728185/133309736-8bf62d19-3fbe-44cc-a79a-1fcf235d005d.png)
+
+_El valor obtenido nos da en coordenada rectangular transformamos a forma polar_
+
+![image](https://user-images.githubusercontent.com/85728185/133309790-55210f8f-4745-44b1-b94e-06402edb8a02.png)
 
 ## Segundo ejercicio ##
 
