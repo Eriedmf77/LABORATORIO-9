@@ -91,3 +91,5 @@ https://youtu.be/0l4b7-l2kKY
 
 
 ## 7. BIBLIOGRAFÍA
+
+_Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)_
