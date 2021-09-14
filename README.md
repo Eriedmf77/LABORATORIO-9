@@ -21,6 +21,8 @@ _Realizar operaciones aritméticas con números complejos, tanto en su forma pol
 
 _Determinar experimentalmente las características de señales senoidales._
 
+## REQUISITOS PREVIOS
+
 ## 2. MARCO TEÓRICO 
 
 
