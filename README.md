@@ -58,6 +58,12 @@ tanto magnitud como ángulo._
 
 ![image](https://user-images.githubusercontent.com/84418933/133294850-33f5536b-e952-43c4-ad7d-6e650e649efe.png)
 
+## Primer ejercicio##
+
+![image](https://user-images.githubusercontent.com/84418933/133305072-6c46ac5c-6399-47c6-be6a-b8f6411d8524.png)
+
+![image](https://user-images.githubusercontent.com/84418933/133305094-453cc3c7-7813-4087-b309-abfe1e5d3490.png)
+
 ## Segundo ejercicio ##
 
 ![image](https://user-images.githubusercontent.com/85728185/133297170-59fffac6-68bf-42e8-8c95-5f63fd02a8a1.png)
