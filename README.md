@@ -53,9 +53,13 @@ tanto magnitud como ángulo._
 
 **3.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.**
 
+![image](https://user-images.githubusercontent.com/84418933/133294850-33f5536b-e952-43c4-ad7d-6e650e649efe.png)
+
 
 
 ## 5. VIDEO
+
+https://youtu.be/0l4b7-l2kKY
 
 ## 6. CONCLUSIONES
 
