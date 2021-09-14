@@ -23,6 +23,16 @@ _Determinar experimentalmente las características de señales senoidales._
 
 ## REQUISITOS PREVIOS
 
+_Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su
+representación gráfica._
+
+## INFORMACIÓN GENERAL
+
+_Los números complejos permiten realizar operaciones matemáticas con
+cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. Con el sistema de
+los números complejos se puede sumar, restar, multiplicar y dividir cantidades que tienen
+tanto magnitud como ángulo._
+
 ## 2. MARCO TEÓRICO 
 
 
