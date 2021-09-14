@@ -37,6 +37,7 @@ tanto magnitud como ángulo._
 
 ![image](https://user-images.githubusercontent.com/85259801/133298711-d1bccc28-6354-47ee-b33a-5b6e6dd3eeb0.png)
 
+![image](https://user-images.githubusercontent.com/85259801/133302846-80e5a014-dacf-47da-9595-ada817f65aef.png)
 
 
 ## 3. PROCEDIMIENTO
