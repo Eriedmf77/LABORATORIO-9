@@ -58,7 +58,7 @@ tanto magnitud como ángulo._
 
 ![image](https://user-images.githubusercontent.com/84418933/133294850-33f5536b-e952-43c4-ad7d-6e650e649efe.png)
 
-## Primer ejercicio##
+## Primer ejercicio ##
 
 ![image](https://user-images.githubusercontent.com/84418933/133305072-6c46ac5c-6399-47c6-be6a-b8f6411d8524.png)
 
