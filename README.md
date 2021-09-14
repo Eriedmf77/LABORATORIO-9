@@ -121,7 +121,7 @@ https://youtu.be/0l4b7-l2kKY
 
 ## 6. CONCLUSIONES
 
-
+_Realizando los ejercicios observamos como los fasores pueden resolverse sea en su forma polar como en su forma rectangular._
 
 
 ## 7. BIBLIOGRAFÍA
