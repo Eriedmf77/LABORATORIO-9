@@ -19,7 +19,7 @@ _Realizar operaciones aritméticas con números complejos, tanto en su forma pol
 
 ***Objetivos especificos***
 
-_Determinar los ejercicios realizando las operaciones en su forma polar y rectangular._
+_Determinar experimentalmente las características de señales senoidales._
 
 ## REQUISITOS PREVIOS
 
@@ -37,7 +37,6 @@ tanto magnitud como ángulo._
 
 ![image](https://user-images.githubusercontent.com/85259801/133298711-d1bccc28-6354-47ee-b33a-5b6e6dd3eeb0.png)
 
-![image](https://user-images.githubusercontent.com/85259801/133301488-60c668a3-eea1-490c-b600-67cdc95ec362.png)
 
 
 ## 3. PROCEDIMIENTO
@@ -81,6 +80,40 @@ _Procedemos a cada coordenada polar transformar a rectangular ya que no pueden s
 _El resultado nos queda de forma rectangular debemos transformarlo a forma polar_
 
 ![image](https://user-images.githubusercontent.com/85728185/133297439-a2336847-fbe1-4adf-9bfc-4270414a845a.png)
+
+## Tercer ejercicio ##
+
+![image](https://user-images.githubusercontent.com/85728185/133301295-43a02dc1-2a9d-4ab1-b674-bfc3ebfe942f.png)
+
+_Para tener facilidad transformamos el numerador de la división a coordenada polar_
+
+![image](https://user-images.githubusercontent.com/85728185/133301360-40fad2b9-d586-4189-8999-8cfb40a6e87a.png)
+
+_Reemplazando nos queda_
+
+![image](https://user-images.githubusercontent.com/85728185/133301402-954b52ab-4340-4c57-ab7e-6b19e04d1f76.png)
+
+_Realizmaos la divison y en los grados como estamos division restamos_
+
+![image](https://user-images.githubusercontent.com/85728185/133301448-671d7bf0-6048-45d9-943e-216348d0913f.png)
+
+_Transformamos de forma polar a rectangular ya que no se puden restar_
+
+_Primera coordenada polar_
+
+![image](https://user-images.githubusercontent.com/85728185/133301518-a810040e-7db0-4e16-b05a-aced1e353683.png)
+
+_Segunda coordenada polar_
+
+![image](https://user-images.githubusercontent.com/85728185/133301608-a45a0596-3e0d-49f9-889f-81d260f05fc3.png)
+
+_Realizamos la resta_
+
+![image](https://user-images.githubusercontent.com/85728185/133301643-da8c3132-8f77-456d-b53a-f802ffbbdd9b.png)
+
+_El valor obtenido nos da en coordenada rectangular transformamos a forma polar_
+
+![image](https://user-images.githubusercontent.com/85728185/133301686-1aba18a2-8143-4801-8d7c-abf82d6cf753.png)
 
 ## 5. VIDEO
 
