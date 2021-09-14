@@ -130,6 +130,8 @@ https://youtu.be/0l4b7-l2kKY
 
 _Realizando los ejercicios observamos como los fasores pueden resolverse sea en su forma polar como en su forma rectangular._
 
+_Como sabemos para la resolucion de numeros complejos, podemos asumir que tiene un parecido con operaciones algebraicas normales, en este caso hay que tener en cuenta sobre si el numero imaginario esta elevado a un exponente, es decir, que podemos realizar la operacion normalmente. Una vez obtenido su forma rectangular lo podemos transformar a su forma polar o viceversa._
+
 
 ## 7. BIBLIOGRAFÍA
 
