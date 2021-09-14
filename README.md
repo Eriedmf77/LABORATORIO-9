@@ -55,8 +55,29 @@ tanto magnitud como ángulo._
 
 ![image](https://user-images.githubusercontent.com/84418933/133294850-33f5536b-e952-43c4-ad7d-6e650e649efe.png)
 
+## Segundo ejercicio ##
 
-![image](https://user-images.githubusercontent.com/85728185/133296441-e3a4c74a-fad0-4612-96b4-c9e98317de17.png)
+![image](https://user-images.githubusercontent.com/85728185/133297170-59fffac6-68bf-42e8-8c95-5f63fd02a8a1.png)
+
+_El denominador de la fracción lo transformamos a coordenada polar para tener todos los datos en corrdenadas polares_
+
+![image](https://user-images.githubusercontent.com/85728185/133297205-5fba544e-fa3c-47fb-af48-270223c04323.png)
+
+_Dividimos la ecuación y los angulos en este caso se restan_
+
+![image](https://user-images.githubusercontent.com/85728185/133297247-c4af6c3c-874c-4550-8f01-2ecdb7e93509.png)
+
+_Nos queda la siguiente coordenadas polares_
+
+![image](https://user-images.githubusercontent.com/85728185/133297308-1f28041a-9f48-43a0-9ff8-5a77f2080a35.png)
+
+_Procedemos a cada coordenada polar transformar a rectangular ya que no pueden sumarse _
+
+![image](https://user-images.githubusercontent.com/85728185/133297374-ae0e4f60-6fa7-446e-877f-0bd3f7a0f168.png)
+
+_El resultado nos queda de forma rectangular debemos transformarlo a forma polar_
+
+![image](https://user-images.githubusercontent.com/85728185/133297439-a2336847-fbe1-4adf-9bfc-4270414a845a.png)
 
 ## 5. VIDEO
 
