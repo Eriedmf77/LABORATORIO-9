@@ -14,9 +14,12 @@
 
 ***Objetivo general de la practica***
 
-_Determinar experimentalmente las características de señales senoidales._
+_Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular._
+
 
 ***Objetivos especificos***
+
+_Determinar experimentalmente las características de señales senoidales._
 
 ## 2. MARCO TEÓRICO 
 
@@ -24,6 +27,13 @@ _Determinar experimentalmente las características de señales senoidales._
 
 ## 3. PROCEDIMIENTO
 
+**8.5.1. Transforme a su forma polar:**
+
+![image](https://user-images.githubusercontent.com/84418933/133172524-204f8b77-fa46-432e-adee-c78e2077a59f.png)
+
+![image](https://user-images.githubusercontent.com/84418933/133172655-e6c1a656-7077-4463-bfa9-a7f2ab17f10f.png)
+
+**8.5.2 Transforme a su forma rectangular:**
 
 
 
