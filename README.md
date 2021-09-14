@@ -128,4 +128,6 @@ _Realizando los ejercicios observamos como los fasores pueden resolverse sea en 
 
 _Mates Facil, M. F. (2017, 15 junio). Producto y cociente de números complejos. matesfacil. https://www.matesfacil.com/ejercicios-resueltos-producto-complejos.html_
 
+_F.P. (2019, 23 junio). Representacion fasorial. https://www.fisicapractica.com/fasores.php. https://www.fisicapractica.com/fasores.php_
+
 _Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)_
