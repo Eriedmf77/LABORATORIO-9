@@ -126,4 +126,6 @@ https://youtu.be/0l4b7-l2kKY
 
 ## 7. BIBLIOGRAFÍA
 
+_Mates Facil, M. F. (2017, 15 junio). Producto y cociente de números complejos. matesfacil. https://www.matesfacil.com/ejercicios-resueltos-producto-complejos.html_
+
 _Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)_
