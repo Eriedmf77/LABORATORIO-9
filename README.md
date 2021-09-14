@@ -56,8 +56,7 @@ tanto magnitud como ángulo._
 ![image](https://user-images.githubusercontent.com/84418933/133294850-33f5536b-e952-43c4-ad7d-6e650e649efe.png)
 
 
-
-![image](https://user-images.githubusercontent.com/85728185/133296188-cf489a87-bf0f-42a2-a29c-c14bd472551b.png)
+![image](https://user-images.githubusercontent.com/85728185/133296441-e3a4c74a-fad0-4612-96b4-c9e98317de17.png)
 
 ## 5. VIDEO
 
