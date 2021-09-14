@@ -35,6 +35,8 @@ tanto magnitud como ángulo._
 
 ## 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/85259801/133298711-d1bccc28-6354-47ee-b33a-5b6e6dd3eeb0.png)
+
 
 
 ## 3. PROCEDIMIENTO
