@@ -19,7 +19,7 @@ _Realizar operaciones aritméticas con números complejos, tanto en su forma pol
 
 ***Objetivos especificos***
 
-_Determinar experimentalmente las características de señales senoidales._
+_Determinar los ejercicios realizando las operaciones en su forma polar y rectangular._
 
 ## REQUISITOS PREVIOS
 
